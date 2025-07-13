@@ -1,0 +1,7 @@
+transformers
+pandas
+tqdm
+matplotlib
+seaborn
+google-api-python-client
+textblob
