@@ -38,7 +38,7 @@ Analyzing public sentiment on **India's National Education Policy 2020 (NEP 2020
 ## 📊 Sample Output
 
 ![Bar Chart Example](bar_chart.png)  
-![Pie Chart Example](pie_chart.png)
+![Word Cloud Example](wordcloud.png)
 
 ---
 
